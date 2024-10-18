@@ -1,3 +1,2 @@
-# माम्पठय
-
-Model words are the template form for the third person present tense, which may be different from the root word
+# FriendlyDevanagari
+A friendly wrapper for Devanagari with support for Sanskrit paradigm generation, internal sandhi and more
